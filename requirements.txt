@@ -1,0 +1,4 @@
+networkx>=3.4
+numpy>=2.0
+requests>=2.31
+bandit>=1.7

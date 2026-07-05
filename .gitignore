@@ -1,0 +1,12 @@
+# secrets & local env
+.env
+.venv/
+venv/
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# macOS
+.DS_Store
+# regenerable data (fetch/normalize via datasets/, run via run_*.sh)
+/data/
